@@ -6,6 +6,8 @@ This 3D Bubble Tea is created by GPT-4, check the youtube link below to see the 
 
 ### [Live demo](https://andy19910102.github.io/3d-bubble-tea-created-by-GPT-4/)
 
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzg3Zjk1M2M3NGNjOTIwMzYxZTRkMDJjNTU5ZTBlNWFmYjFiNDE1YSZjdD1n/7CE5ALS8JsqJG1O18Y/giphy.gif)
+
 ----
 
 ## Prompts History
