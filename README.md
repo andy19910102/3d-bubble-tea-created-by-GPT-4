@@ -4,7 +4,7 @@ This 3D Bubble Tea is created by GPT-4, check the youtube link below to see the 
 
 ### Video: [https://youtu.be/SvtUIhMDlrA](https://youtu.be/SvtUIhMDlrA)
 
-### Live demo: [https://andy19910102.github.io/3d-bubble-tea-created-by-GPT-4/](https://andy19910102.github.io/3d-bubble-tea-created-by-GPT-4/)
+### [Live demo](https://andy19910102.github.io/3d-bubble-tea-created-by-GPT-4/)
 
 ----
 
