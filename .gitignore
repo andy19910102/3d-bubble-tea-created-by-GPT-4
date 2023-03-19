@@ -1,0 +1,38 @@
+# Node.js related
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp/
+
+# Visual Studio Code related
+.vscode/
+*.code-workspace
+
+# macOS related
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Sublime Text related
+*.sublime-workspace
+
+# IntelliJ IDEA / WebStorm / PhpStorm related
+.idea/
+*.iml
+
+# IDE specific
+*.idea/
+*.project
+*.classpath
+*.pydevproject
+
+# Other files
+.sass-cache/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+yarn.lock
+package-lock.json
