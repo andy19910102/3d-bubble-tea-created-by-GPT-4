@@ -12,7 +12,7 @@ This 3D Bubble Tea is created by GPT-4, check the youtube link below to see the 
 
 ## Prompts History
 
-👨🏻‍💻
+🧙🏻‍♀️
 
 請幫我使用HTML,CSS,JavaScript搭配Three.js函式庫在canvas上設計一個放在天藍色背景的可愛造型的3D珍珠奶茶，並且可旋轉視角，現在請開始進行HTML檔案的撰寫
 
@@ -21,11 +21,12 @@ Please help me design a 3D pearl milk tea with a cute shape on a sky blue backgr
 ----
 
 🤖
-首先，您需要在您的電腦上安裝Three.js。前往官方網站（https://threejs.org/）下載最新版本的Three.js，或者在HTML檔案中使用CDN鏈接。
+
+首先，您需要在您的電腦上安裝Three.js。前往[官方網站]https://threejs.org/）下載最新版本的Three.js，或者在HTML檔案中使用CDN鏈接。
 
 以下是使用HTML、CSS、JavaScript和Three.js建立3D珍珠奶茶的代碼範例：
 
-Firstly, you need to install Three.js on your computer. Visit the official website (https://threejs.org/) to download the latest version of Three.js or use a CDN link in your HTML file.
+Firstly, you need to install Three.js on your computer. Visit the [official website](https://threejs.org/) to download the latest version of Three.js or use a CDN link in your HTML file.
 
 Here is a sample code for creating a 3D pearl milk tea using HTML, CSS, JavaScript and Three.js:
 
@@ -107,7 +108,8 @@ Here is a sample code for creating a 3D pearl milk tea using HTML, CSS, JavaScri
 
 ----
 
-👨🏻‍💻
+🧙🏻‍♀️
+
 我換個方式形容，我需要的是有著半透明背身，裡頭放置半杯的奶茶以及珍珠，奶茶可用棕色。背景色一樣是天然色。給我JavaScript Code即可。
 
 Let me describe it in a different way. What I need is a half-transparent container that holds half a cup of milk tea with pearls inside. The milk tea should be brown in color. The background color should be natural. Please give me the JavaScript code for this.
@@ -115,6 +117,7 @@ Let me describe it in a different way. What I need is a half-transparent contain
 ----
 
 🤖
+
 了解您的需求，以下是基於Three.js函式庫創建半透明珍珠奶茶的JavaScript代碼：
 
 I understand your needs. Below is the JavaScript code for creating a semi-transparent pearl milk tea based on the Three.js library:
@@ -196,7 +199,8 @@ window.addEventListener('resize', function() {
 
 ----
 
-👨🏻‍💻
+🧙🏻‍♀️
+
 你畫得很好，但是需要更多的改良空間：
 1. 奶茶的顏色很好，但是請使用半透明的奶茶色，讓我可以看到裡面的珍珠。
 2. 我希望杯身是頂部的半徑比較大，底部的半徑比較小，參考真實手搖杯會有的比例。
@@ -211,6 +215,7 @@ You've done a great job, but there is room for improvement:
 ----
 
 🤖
+
 根據您的要求，我對代碼進行了修改：
 
 1. 使用半透明的奶茶色。
@@ -303,7 +308,8 @@ animate();
 
 ----
 
-👨🏻‍💻
+🧙🏻‍♀️
+
 很好，但你應該清楚知道還有改善空間：
 
 1. 奶茶應合理的被放在杯身內，且必須要是放在杯子的底部
@@ -408,7 +414,8 @@ scene.add(pointLight);
 
 ----
 
-👨🏻‍💻
+🧙🏻‍♀️
+
 請繼續
 
 Continue, please.
@@ -450,7 +457,8 @@ controls.maxPolarAngle = Math.PI / 2;
 
 ----
 
-👨🏻‍💻
+🧙🏻‍♀️
+
 你畫得很好，但是還是有需要調整的地方：
 
 1. 吸管需要再粗一點，可以參考珍珠的直徑設計。
@@ -551,7 +559,8 @@ scene.add
 
 ----
 
-👨🏻‍💻
+🧙🏻‍♀️
+
 請繼續
 
 Continue please
@@ -594,7 +603,8 @@ camera.updateProjectionMatrix();
 
 ----
 
-👨🏻‍💻
+🧙🏻‍♀️
+
 你這次做的接近我要的品質了，做的非常很請保持這個水準。
 
 我希望頂部是個透明杯蓋，因為透明色的關係，我從視角上看不到杯蓋的立體感，我希望可以從目前視角能夠看到杯蓋前邊緣的型態。
@@ -635,7 +645,8 @@ Here is the updated code that adds a transparent lid to the top of the cup. Plea
 
 ----
 
-👨🏻‍💻
+🧙🏻‍♀️
+
 很好！你做的非常好！請保持現在的水準，有一些珍珠跑出了奶茶杯緣這是不合理的，你可以減少珍珠的數量，請針對這部分相關的code修改即可
 
 Great job! You did really well! Please keep up the current level. Some pearls are running out of the edge of the milk tea cup, which is unreasonable. You can reduce the number of pearls, please modify the relevant code for this part.
